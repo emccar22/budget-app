@@ -21,7 +21,11 @@ This is a pwa so you can also insstall the app and use it in offline mode wwhere
 
 ## Screenshot
 
+![screenshot](./public/icons/images/screenshot-budget-app.png)
+
 ## Deployed URL
+
+https://radiant-savannah-17564.herokuapp.com/
 
 ## Questions
 
